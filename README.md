@@ -30,5 +30,5 @@ Techniques used:
 SQL Analysis for this dataset can be found here:
 https://github.com/bonnievera/Banking-Financial-Data-Analysis
 
-##Data Source:
+## Data Source:
 The datasets used in this analysis were exported from a MySQL database (see my SQL project link below). Due to file size constraints, the raw CSVs are not hosted here, but the schema and export scripts are provided.
